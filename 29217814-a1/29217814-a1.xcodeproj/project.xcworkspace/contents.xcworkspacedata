@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../29217814-week5/LocationAnnotation.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../../29217814-week5/LocationTableViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../../29217814-week5/MapViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../../29217814-week5/NewLocationViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
